@@ -1,6 +1,6 @@
 # Ferrite
 
-A media search engine for iOS with a plugin API to extend its functionality.
+A media search engine for iOS with a plugin API to extend its functionality.  
 
 ## Disclaimer
 
